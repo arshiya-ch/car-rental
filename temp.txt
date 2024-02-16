@@ -1,0 +1,65 @@
+aston martin ,  678.000000bhp ,  0.000000kWh ,  1877409868km ,  6487656Min(0-80%) ,  6487780 , 6487779
+Tesla Model S 2021  ,   825 bhp  ,   100 kWh  ,   660 km  ,   60 Min(0-80%) with supercharger  ,   5  , 4
+Tata Tigor EV 2021  ,   40.23 bhp  ,   21.5 kWh  ,   213 km  ,   120 Min(with fast charger)  ,   5  , 4
+Mahindra E Verito 2016  ,   41.57 bhp  ,   28.8 kWh  ,   110 km  ,   90 Min(0-80% with Fast Charger)  ,   5  , 4
+Hyundai Kona Electric 2021  ,   134.1 bhp  ,   39.2 kWh  ,   452 km  ,   370 Min(0-100%)  ,   5  , 4
+Jaguar i-peace 2021  ,   130.7 bhp ,  30.2 kWh ,  312 km ,  60 Min(0-80%) ,  5 , 4
+honda  ,   102.00bhp  ,   100.00kWh  ,   265km  ,   30Min(0-80%)  ,   5  , 4
+maruti  ,   80.00bhp  ,   150.00kWh  ,   251km  ,   20Min(0-80%)  ,   5  , 4
+bugati  ,   400.00bhp  ,   362.00kWh  ,   548km  ,   40Min(0-80%)  ,   2  , 1
+
+
+aston martin ,  678.000000bhp ,  0.000000kWh ,  1877409868km ,  6487656Min(0-80%) ,  6487780 , 6487779
+Tesla Model S 2021  ,   825 bhp  ,   100 kWh  ,   660 km  ,   60 Min(0-80%) with supercharger  ,   5  , 4
+Tata Tigor EV 2021  ,   40.23 bhp  ,   21.5 kWh  ,   213 km  ,   120 Min(with fast charger)  ,   5  , 4
+Mahindra E Verito 2016  ,   41.57 bhp  ,   28.8 kWh  ,   110 km  ,   90 Min(0-80% with Fast Charger)  ,   5  , 4
+Hyundai Kona Electric 2021  ,   134.1 bhp  ,   39.2 kWh  ,   452 km  ,   370 Min(0-100%)  ,   5  , 4
+Jaguar i-peace 2021  ,   130.7 bhp ,  30.2 kWh ,  312 km ,  60 Min(0-80%) ,  5 , 4
+honda  ,   102.00bhp  ,   100.00kWh  ,   265km  ,   30Min(0-80%)  ,   5  , 4
+maruti  ,   80.00bhp  ,   150.00kWh  ,   251km  ,   20Min(0-80%)  ,   5  , 4
+bugati  ,   400.00bhp  ,   362.00kWh  ,   548km  ,   40Min(0-80%)  ,   2  , 1
+aston martin ,  678.000000bhp ,  0.000000kWh ,  1877409868km ,  6487656Min(0-80%) ,  6487780 , 6487779
+Tesla Model S 2021  ,   825 bhp  ,   100 kWh  ,   660 km  ,   60 Min(0-80%) with supercharger  ,   5  , 4
+Tata Tigor EV 2021  ,   40.23 bhp ,  21.5 kWh ,  213 km ,  120 Min(with fast charger) ,  5 , 4
+Hyundai Kona Electric 2021  ,   134.1 bhp  ,   39.2 kWh  ,   452 km  ,   370 Min(0-100%)  ,   5  , 4
+Jaguar i-peace 2021  ,   130.7 bhp  ,   30.2 kWh  ,   312 km  ,   60 Min(0-80%)  ,   5  , 4
+tesla truck  ,   110.00bhp ,  180.00kWh ,  250km ,  18Min(0-80%) ,  7 , 6
+honda  ,   102.00bhp  ,   100.00kWh  ,   265km  ,   30Min(0-80%)  ,   5  , 4
+maruti  ,   80.00bhp  ,   150.00kWh  ,   251km  ,   20Min(0-80%)  ,   5  , 4
+bugati  ,   400.00bhp  ,   362.00kWh  ,   548km  ,   40Min(0-80%)  ,   2  , 1
+aston martin ,  678.000000bhp ,  0.000000kWh ,  1877409868km ,  6487656Min(0-80%) ,  6487780 , 6487779
+Tesla Model S 2021  ,   825 bhp  ,   100 kWh  ,   660 km  ,   60 Min(0-80%) with supercharger  ,   5  , 4
+Tata Tigor EV 2021  ,   40.23 bhp ,  21.5 kWh ,  213 km ,  120 Min(with fast charger) ,  5 , 4
+Hyundai Kona Electric 2021  ,   134.1 bhp  ,   39.2 kWh  ,   452 km  ,   370 Min(0-100%)  ,   5  , 4
+Jaguar i-peace 2021  ,   130.7 bhp  ,   30.2 kWh  ,   312 km  ,   60 Min(0-80%)  ,   5  , 4
+tesla truck  ,   110.00bhp ,  180.00kWh ,  250km ,  18Min(0-80%) ,  7 , 6
+honda  ,   102.00bhp  ,   100.00kWh  ,   265km  ,   30Min(0-80%)  ,   5  , 4
+maruti  ,   80.00bhp  ,   150.00kWh  ,   251km  ,   20Min(0-80%)  ,   5  , 4
+bugati  ,   400.00bhp  ,   362.00kWh  ,   548km  ,   40Min(0-80%)  ,   2  , 1
+aston martin ,  678.000000bhp ,  0.000000kWh ,  1877409868km ,  6487656Min(0-80%) ,  6487780 , 6487779
+Tesla Model S 2021  ,   825 bhp  ,   100 kWh  ,   660 km  ,   60 Min(0-80%) with supercharger  ,   5  , 4
+Tata Tigor EV 2021  ,   40.23 bhp  ,   21.5 kWh  ,   213 km  ,   120 Min(with fast charger)  ,   5  , 4
+Mahindra E Verito 2016  ,   41.57 bhp  ,   28.8 kWh  ,   110 km  ,   90 Min(0-80% with Fast Charger)  ,   5  , 4
+Hyundai Kona Electric 2021  ,   134.1 bhp ,  39.2 kWh ,  452 km ,  370 Min(0-100%) ,  5 , 4
+tesla truck  ,   110.00bhp ,  180.00kWh ,  250km ,  18Min(0-80%) ,  7 , 6
+honda  ,   102.00bhp  ,   100.00kWh  ,   265km  ,   30Min(0-80%)  ,   5  , 4
+maruti  ,   80.00bhp  ,   150.00kWh  ,   251km  ,   20Min(0-80%)  ,   5  , 4
+bugati  ,   400.00bhp  ,   362.00kWh  ,   548km  ,   40Min(0-80%)  ,   2  , 1
+aston martin ,  678.000000bhp ,  0.000000kWh ,  1877409868km ,  6487656Min(0-80%) ,  6487780 , 6487779
+Tesla Model S 2021  ,   825 bhp  ,   100 kWh  ,   660 km  ,   60 Min(0-80%) with supercharger  ,   5  , 4
+Tata Tigor EV 2021  ,   40.23 bhp ,  21.5 kWh ,  213 km ,  120 Min(with fast charger) ,  5 , 4
+Hyundai Kona Electric 2021  ,   134.1 bhp  ,   39.2 kWh  ,   452 km  ,   370 Min(0-100%)  ,   5  , 4
+Jaguar i-peace 2021  ,   130.7 bhp  ,   30.2 kWh  ,   312 km  ,   60 Min(0-80%)  ,   5  , 4
+tesla truck  ,   110.00bhp ,  180.00kWh ,  250km ,  18Min(0-80%) ,  7 , 6
+honda  ,   102.00bhp  ,   100.00kWh  ,   265km  ,   30Min(0-80%)  ,   5  , 4
+maruti  ,   80.00bhp  ,   150.00kWh  ,   251km  ,   20Min(0-80%)  ,   5  , 4
+bugati  ,   400.00bhp  ,   362.00kWh  ,   548km  ,   40Min(0-80%)  ,   2  , 1
+aston martin ,  678.000000bhp, 0.000000kWh, 1877409868km, 6487656Min(0-80%), 6487780, $6487672/KM, 1877569467
+Tata Tigor EV 2021  ,   40.23 bhp  ,   21.5 kWh  ,   213 km  ,   120 Min(with fast charger)  ,   5  , 4
+Mahindra E Verito 2016  ,   41.57 bhp  ,   28.8 kWh  ,   110 km  ,   90 Min(0-80% with Fast Charger)  ,   5  , 4
+Hyundai Kona Electric 2021  ,   134.1 bhp  ,   39.2 kWh  ,   452 km  ,   370 Min(0-100%)  ,   5  , 4
+Jaguar i-peace 2021  ,   130.7 bhp  ,   30.2 kWh  ,   312 km  ,   60 Min(0-80%)  ,   5  , 4
+tesla truck  ,   110.00bhp ,  180.00kWh ,  250km ,  18Min(0-80%) ,  7 , 6
+honda  ,   102.00bhp  ,   100.00kWh  ,   265km  ,   30Min(0-80%)  ,   5  , 4
+maruti  ,   80.00bhp  ,   150.00kWh  ,   251km  ,   20Min(0-80%)  ,   5  , 4
+bugati  ,   400.00bhp  ,   362.00kWh  ,   548km  ,   40Min(0-80%)  ,   2  , 1
